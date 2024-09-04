@@ -55,7 +55,7 @@
     <maven-javadoc.version>2.9.1</maven-javadoc.version>
     <cobertura-version>2.7</cobertura-version>
     <maven-surefire-version>2.20</maven-surefire-version>
-    <maven-gpg-version>1.6</maven-gpg-version>
+    <maven-gpg-version>3.2.5</maven-gpg-version>
     <maven.test.skip>false</maven.test.skip>
     <simple-http.version>1.0.5</simple-http.version>
     <lombok-version>1.18.20</lombok-version>
